@@ -1,3 +1,17 @@
+
+> [!IMPORTANT]
+> 🚨 **Deta Space and WebCrate Sunset on October 17, 2024**
+> 
+> Deta, which hosts and powers WebCrate, has made the difficult decision to shut down [Deta Space](https://deta.space) on **October 17, 2024**.
+>
+> You can continue to login and use WebCrate for **45 days** until sunset, at which point Deta will **start deleting all apps and data** (including WebCrate).
+>
+> More information: https://github.com/WebCrateApp/webcrate/discussions/90
+>
+
+---
+---
+
 <div align="center">
   
 <img src="https://webcrate.fra1.cdn.digitaloceanspaces.com/static/icon.png" title="logo" alt="logo" width="128">
